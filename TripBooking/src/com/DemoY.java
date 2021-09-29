@@ -7,6 +7,7 @@ public class DemoY {
 		int b=5;
 		int c=a*b;
 		System.out.println(c);
+		System.out.println("i have made changes to Y");
 
 	}
 

@@ -8,6 +8,7 @@ public class DemoX {
 		int c=a+b;
 		System.out.println(c);
 		System.out.println("i have made changes");
+		System.out.println("Amruta has pulled this code to demo project");
 
 	}
 
